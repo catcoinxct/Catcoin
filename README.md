@@ -1,2 +1,4 @@
 # Catcoin Meme Token
-A community Driven meme token that provide charitable donations to mental health organizations and animal shelters around the globe.
+Catcoin (XCT) is a community based meme token. Developed on 2 different blockchains. This will be driven by the community itself. Our goal is to provide charitable donations to mental health  organizations and animal shelters around the globe. This will be achieved through price movement but we also want the community to do their part and donate wherever they can. We want to bring positivity to the world!
+Catcoin (XCT) is a fun, new and rapidly growing form of digital currency. This form of digital currency is called “cryptocurrency”; a type of digital currency. Cryptocurrency is completely anonymous, decentralized, and extremely secure.
+Catcoin (XCT) is used with a wallet on your computer, your smartphone, or a website. You can use it to buy goods and services, or trade it for other currencies (both other cryptocurrencies or traditional currency like US dollars).
